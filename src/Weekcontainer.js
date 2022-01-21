@@ -43,10 +43,7 @@ class Weekcontainer extends React.Component {
             {this.formatDayCards()}
   
           </div>
-          <hr></hr>
-          <hr></hr>
-          <hr></hr>
-          <hr></hr>
+        <hr/>
         </div>
     );
   }
